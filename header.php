@@ -128,10 +128,17 @@
             <div class="flex justify-between items-center h-20">
                 <!-- Logo/Nama Situs -->
                 <div class="flex-shrink-0">
-                    <a href="index.php" class="text-3xl font-extrabold text-red-600 tracking-tight transition duration-300 hover:text-red-800">
-                        Infinity <span class="text-gray-900">Food Nusantara</span>
-                    </a>
-                </div>
+                <a href="index.php" class="flex items-center space-x-3">
+                    <img
+                        src="asset/images/Logo.png"
+                        alt="Infinity Food Nusantara Logo"
+                        class="h-12 w-auto object-contain transition-transform duration-300 hover:scale-105"
+                    >
+                    <span class="text-2xl font-extrabold text-gray-900 tracking-tight">
+                        Food Nusantara
+                    </span>
+                </a>
+            </div>
                 <!-- Navigasi Desktop -->
                 <nav class="hidden md:flex space-x-4">
                     <a href="index.php" class="nav-link px-4 py-2 rounded-full text-lg font-medium text-gray-700 hover:bg-red-100">Beranda</a>
