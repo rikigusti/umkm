@@ -12,7 +12,7 @@ include 'header.php';
         Jelajahi keindahan dan kekayaan kuliner dari Sabang hingga Merauke.
     </p>
     <!-- Gambar Placeholder untuk Hero -->
-    <img src="asset/images/sambal.png" height="50px" width="650px" alt="Ilustrasi Sambal dan Bumbu Khas Indonesia" class="mx-auto rounded-xl shadow-xl transition transform hover:scale-[1.01] duration-300">
+    <img src="asset/images/hidangan.png" height="50px" width="550px"  class="mx-auto rounded-xl shadow-xl transition transform hover:scale-[1.01] duration-300">
     <div class="mt-10">
         <a href="produk.php" class="inline-block bg-red-600 text-white text-lg font-semibold px-8 py-3 rounded-full shadow-lg hover:bg-red-700 transition duration-300 transform hover:scale-105">
             Lihat Menu Populer

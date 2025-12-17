@@ -13,7 +13,7 @@ include 'header.php';
     <div class="grid md:grid-cols-3 gap-10">
         <!-- Kartu Koki 1: Chef Adi Wijaya -->
         <div class="interactive-card bg-white p-6 rounded-xl shadow-lg border-b-4 border-red-500">
-            <img src="https://placehold.co/200x200/ef4444/ffffff?text=Chef+Adi" alt="Foto Chef Adi Wijaya" class="w-32 h-32 rounded-full mx-auto object-cover border-4 border-red-200 mb-4">
+            <img src="asset/images/chef1.jpeg" alt="Foto Chef Adi Wijaya" class="w-32 h-32 rounded-full mx-auto object-cover border-4 border-red-200 mb-4">
             <h3 class="text-2xl font-bold text-gray-800 mb-1">Chef Adi Wijaya</h3>
             <p class="text-red-600 font-medium mb-3">Spesialis Masakan Sumatra</p>
             <p class="text-gray-600 text-sm">Berpengalaman 20 tahun dalam bumbu-bumbu Rendang dan masakan Padang.</p>
@@ -21,7 +21,7 @@ include 'header.php';
 
         <!-- Kartu Koki 2: Chef Lina Santoso -->
         <div class="interactive-card bg-white p-6 rounded-xl shadow-lg border-b-4 border-red-500">
-            <img src="https://placehold.co/200x200/f59e0b/ffffff?text=Chef+Lina" alt="Foto Chef Lina" class="w-32 h-32 rounded-full mx-auto object-cover border-4 border-red-200 mb-4">
+            <img src="asset/images/chef2.jpeg" alt="Foto Chef Lina" class="w-32 h-32 rounded-full mx-auto object-cover border-4 border-red-200 mb-4">
             <h3 class="text-2xl font-bold text-gray-800 mb-1">Chef Lina Santoso</h3>
             <p class="text-red-600 font-medium mb-3">Pakar Masakan Jawa & Bali</p>
             <p class="text-gray-600 text-sm">Menguasai teknik memasak tradisional dari tanah Jawa dan Bali.</p>
@@ -29,7 +29,7 @@ include 'header.php';
 
         <!-- Kartu Koki 3: Chef Tomi Putra -->
         <div class="interactive-card bg-white p-6 rounded-xl shadow-lg border-b-4 border-red-500">
-            <img src="https://placehold.co/200x200/3b82f6/ffffff?text=Chef+Tomi" alt="Foto Chef Tomi" class="w-32 h-32 rounded-full mx-auto object-cover border-4 border-red-200 mb-4">
+            <img src="asset/images/chef3.jpeg" alt="Foto Chef Tomi" class="w-32 h-32 rounded-full mx-auto object-cover border-4 border-red-200 mb-4">
             <h3 class="text-2xl font-bold text-gray-800 mb-1">Chef Tomi Putra</h3>
             <p class="text-red-600 font-medium mb-3">Ahli Dessert Tradisional</p>
             <p class="text-gray-600 text-sm">Kreator di balik hidangan penutup yang menyegarkan khas Nusantara.</p>
